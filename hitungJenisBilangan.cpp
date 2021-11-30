@@ -7,7 +7,6 @@ main() {
 
 	// arrayData
 	int arrayData[10] = {1,2,3,4,5};
-	int ganjil=0,genap=0;
 	
 	// business logic
 	for(int i =0; i< 5; i++) 
